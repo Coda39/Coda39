@@ -9,7 +9,7 @@ Hi I'm a Computer Science student at UT Dallas with a passion for machine learni
 
 🏆 AIGA Design Challenge People's Choice Award Winner
 
-📚 BS in Computer Science @ UT Dallas (Expected Spring 2026)
+📚 BS in Computer Science @ UT Dallas (Expected December 2025)
 
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=gruvbox&bg=%23232323&badge=%23303030&border=%23303030&titleColor=%23fabe2b&line1=react%2Creact%2C7fec98%3Bsvelte%2Csvelte%2C96601b%3Bgo%2Cgo%2C4795b1%3Bpython%2Cpython%2C3bdb6f%3B)
 
